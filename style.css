@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+}
+
+main, section {
+    width: 80%;
+    margin: auto;
+    padding: 1rem;
+}
+
+header, h2 {
+    margin-bottom: 1rem;
+}
+
+table {
+    width: 100%;
+    border: 3px double black;
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 30%;
+    border: 1px dashed black;
+}
+
+td {
+    padding: .5rem;
+}
+
+th {
+    border: 1px solid black;
+}
+
